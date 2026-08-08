@@ -1,4 +1,13 @@
+
 # Quantum Call Center Workforce Planner
+
+
+### Team Name :- Quantum Maniac
+
+
+### Team member :- Shubham Gajanan Patil
+
+
 
 A complete hybrid Python + Qiskit workforce optimization prototype for the Call Center Staffing Optimization challenge.
 

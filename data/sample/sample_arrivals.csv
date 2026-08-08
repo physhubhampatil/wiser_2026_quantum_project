@@ -1,0 +1,6 @@
+day,interval,queue,channel,arrivals,aht_seconds
+0,18,billing,voice,41,352
+0,18,technical,voice,34,515
+0,18,sales,chat,16,326
+0,19,billing,voice,45,371
+0,19,retention,voice,19,610
